@@ -1,0 +1,15 @@
+index		words		filecount		filenames and wordcount
+------------------------------------------------------------------------------------------------
+[0]		[are]		[1]		[file1.txt]		[2] 
+[1]		[buffallow]		[1]		[file1.txt]		[1] 
+[5]		[facebook]		[1]		[file1.txt]		[1] 
+[7]		[hi]		[1]		[file1.txt]		[1] 
+[7]		[hello]		[2]		[file1.txt]		[1][file2.txt]		[1] 
+[7]		[how]		[2]		[file1.txt]		[1][file2.txt]		[2] 
+[8]		[instagram]		[1]		[file1.txt]		[1] 
+[11]		[linkedin]		[1]		[file1.txt]		[1] 
+[18]		[snapchat]		[1]		[file1.txt]		[1] 
+[22]		[whatsapp]		[1]		[file1.txt]		[1] 
+[24]		[you]		[1]		[file1.txt]		[2] 
+[24]		[youtube]		[1]		[file1.txt]		[1] 
+[26]		[6]		[1]		[file1.txt]		[1] 
